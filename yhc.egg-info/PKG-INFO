@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: yhc
+Version: 0.1.0dev
+Summary: Phrase classifier
+Home-page: https://github.com/snowleos/yhc
+Author: Alexey Lavrenuke, Ilya Melnikov
+Author-email: direvius@yandex-team.ru, imeln@yandex-team.ru
+License: LGPLv3
+Description: Phrase classifiers collection and common interface to them
+Keywords: library classification machine-learning natural-language-processing
+Platform: All
